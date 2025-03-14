@@ -55,7 +55,7 @@ Both Binoculars and LLMDet require pretrained models, which are automatically us
 
 
 ## Acknowledgments
-We thank the authors of Binoculars and LLMDet for making their models available.
+We thank the authors of Binoculars and LLMDet for making their models available. We thank the original authors of The Rise of AI-Generated Content in Wikipedia and their github repository in reproducing their results (https://github.com/brooksca3/wiki_collection)
 
 ---
 This README provides all necessary information to reproduce our experiments in Google Colab, including dependencies, data collection, preprocessing, evaluation, and visualization.
